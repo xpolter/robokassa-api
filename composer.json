@@ -1,5 +1,5 @@
 {
-    "name": "netfantom/robokassa-api",
+    "name": "xpolter/robokassa-api",
     "type": "library",
     "description": "Robokassa Api for PHP 8.1",
     "keywords": [
